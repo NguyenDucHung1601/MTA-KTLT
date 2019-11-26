@@ -1,0 +1,21 @@
+Thao tac voi DS lien ket don:
+- Them 1 nut dau ds
+- Them 1 nut cuoi ds
+- Duyet ds(hien thi, tinh toan,...)
+- Them 1 ptu vao 1 vtri trong ds
+- Xoa ptu tai 1 vtri trong ds
+- Lam rong ds
+- Chen 1 not vao 1 vtri nao do tren ds
+- Xoa 1 nut (theo 1 yeu cau nao do)
+- Ktra ds rong
+- Tim 1 gtri trong ds
+- ...
+
+Thao tac voi DS lien ket kep:
+- Them 1 node vao dau DS
+- Them 1 noed vao cuoi DS
+- Chen 1 node vao DS
+- Xoa node tu dau DS
+- Xoa node o cuoi DS
+- Xoa 1 node trong DS
+- ...

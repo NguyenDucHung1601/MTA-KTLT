@@ -1,0 +1,17 @@
+
+Double linked list: 5  1  10  5  
+Double linked list: 5  1  10  
+Double linked list: 1  10  
+Position is not valid
+Double linked list: 10  
+Double linked list: 2  3  
+Double linked list: 2  8  5  1  10  
+Double linked list: 2  8  5  1  
+Double linked list: 8  5  1  
+Position is not valid
+Position is not valid
+Double linked list: 5  1  
+Double linked list: 5  
+Double linked list: 
+Double linked list is empty, cannot delete.
+Double linked list is empty, cannot delete.

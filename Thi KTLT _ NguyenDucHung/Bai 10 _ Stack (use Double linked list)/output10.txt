@@ -1,0 +1,29 @@
+
+Stack is full
+Stack is full, cannot Push
+Removed element 24
+STACK:  78 | 58 | 62 | 64 |
+Top element: 78
+Stack is not empty
+Stack is not full
+Stack is full, cannot Push
+Removed element 41
+STACK:  67 | 34 | 0 | 69 |
+Removed element 67
+STACK:  34 | 0 | 69 |
+Removed element 34
+STACK:  0 | 69 |
+Removed element 0
+STACK:  69 |
+Removed element 69
+STACK: 
+Stack is not full
+Stack is empty
+STACK:  1 |
+STACK:  1 | 1 |
+Stack is not full
+STACK:  1 | 1 | 1 |
+STACK:  1 | 1 | 1 | 1 |
+STACK:  1 | 1 | 1 | 1 | 1 |
+Stack is full, cannot Push
+Stack is full

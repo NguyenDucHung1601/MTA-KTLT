@@ -1,0 +1,9 @@
+
+
+- Expression: 1+1(
+- Result: FALSE
+
+- Expression: 1+1()
+- Result: TRUE
+
+- Expression: 

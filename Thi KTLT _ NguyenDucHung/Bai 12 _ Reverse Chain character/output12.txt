@@ -1,0 +1,9 @@
+
+Result: NGUYEN  --->  NEYUGN
+Result: DUC  --->  CUD
+Result: HUNG  --->  GNUH
+Result: NGUYENDUCHUNG  --->  GNUHCUDNEYUGN
+Result: MTA  --->  ATM
+Result: 0  --->  0
+Result: HUNG  --->  GNUH
+Result: NGUYEN DUC HUNG  --->  GNUH CUD NEYUGN

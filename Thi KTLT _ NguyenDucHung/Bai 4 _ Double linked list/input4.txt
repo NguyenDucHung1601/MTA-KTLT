@@ -1,0 +1,2 @@
+Double linked list:
+2  8  5  1  10  5  

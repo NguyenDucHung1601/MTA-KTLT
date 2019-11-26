@@ -1,0 +1,71 @@
+
+Removed element 41
+STACK:  67 | 34 | 0 | 69 |
+Removed element 67
+STACK:  34 | 0 | 69 |
+Removed element 34
+STACK:  0 | 69 |
+Removed element 0
+STACK:  69 |
+Removed element 69
+STACK: 
+Stack is empty, cannot Pop
+Stack is not full
+Stack is empty
+Stack is empty, cannot Pop
+STACK:  1 |
+STACK:  2 | 1 |
+STACK:  3 | 2 | 1 |
+STACK:  4 | 3 | 2 | 1 |
+STACK:  5 | 4 | 3 | 2 | 1 |
+Stack is full, cannot Push
+STACK: 
+Stack is empty before
+Stack is not full
+STACK:  1 |
+STACK:  2 | 1 |
+STACK:  3 | 2 | 1 |
+STACK:  4 | 3 | 2 | 1 |
+STACK:  5 | 4 | 3 | 2 | 1 |
+Stack is full, cannot Push
+STACK: 
+STACK:  1 |
+STACK:  1 | 1 |
+STACK:  1 | 1 | 1 |
+STACK:  1 | 1 | 1 | 1 |
+STACK:  1 | 1 | 1 | 1 | 1 |
+Stack is full, cannot Push
+Stack is full, cannot Push
+Stack is full, cannot Push
+Stack is full, cannot Push
+Stack is full, cannot Push
+Stack is not empty
+Stack is full
+Removed element 1
+STACK:  1 | 1 | 1 | 1 |
+Removed element 1
+STACK:  1 | 1 | 1 |
+Removed element 1
+STACK:  1 | 1 |
+Removed element 1
+STACK:  1 |
+Removed element 1
+STACK: 
+Stack is not full
+Stack is empty before
+Stack is empty
+Stack is full
+Stack is not empty
+Stack is full, cannot Push
+Removed element 41
+STACK:  67 | 34 | 0 | 69 |
+Removed element 67
+STACK:  34 | 0 | 69 |
+Removed element 34
+STACK:  0 | 69 |
+Removed element 0
+STACK:  69 |
+Removed element 69
+STACK: 
+Stack is empty, cannot Pop
+Stack is empty, cannot Pop

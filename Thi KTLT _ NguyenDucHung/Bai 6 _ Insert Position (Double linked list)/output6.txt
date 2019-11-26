@@ -1,0 +1,24 @@
+
+Result: 12  2  8  5  1  10  
+Result: 12  10  2  8  5  1  10  
+Result: 2  8  5  1  100  10  
+Result: 2  100  8  5  1  100  10  
+Result: 0  2  100  8  5  1  100  10  
+Result: 10  2  8  5  1  10  
+Result: Position is not valid
+Result: 1020  10  2  8  5  1  10  
+Result: Position is not valid
+Result: 1020  10  2  8  5  1  123  10  
+Result: 1020  10  2  8  5  1  123  10  22222  
+Result: Position is not valid
+Result: 2  8  5  1  100  10  
+Result: 2  8  5  1  100  100  10  
+Result: 5  2  8  5  1  10  
+Result: 100  2  8  5  1  10  
+Result: 100  2  8  5  1  100  10  
+Result: 100  2  8  5  1  100  120  10  
+Result: 100  2  8  5  1  100  120  10  200  
+Result: Position is not valid
+Result: Position is not valid
+Result: 100  2  8  5  12345  1  100  120  10  200  
+Result: Position is not valid
